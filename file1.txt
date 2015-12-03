@@ -1,2 +1,3 @@
 This is a file of test.
 this is a free software.
+This is a good of day.
